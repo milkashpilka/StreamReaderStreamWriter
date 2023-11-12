@@ -1,0 +1,7 @@
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\bin\Debug\StreamApp2.exe.config
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\bin\Debug\StreamApp2.exe
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\bin\Debug\StreamApp2.pdb
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\obj\Debug\StreamApp2.csproj.AssemblyReference.cache
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\obj\Debug\StreamApp2.csproj.CoreCompileInputs.cache
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\obj\Debug\StreamApp2.exe
+C:\Users\Милена\source\repos\StreamApp2\StreamApp2\obj\Debug\StreamApp2.pdb
